@@ -1,0 +1,10 @@
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Windows Form\Kuis Panda\Kuis Panda\Kuis Panda\bin\Debug\Kuis Panda.exe.config
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Windows Form\Kuis Panda\Kuis Panda\Kuis Panda\bin\Debug\Kuis Panda.exe
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Windows Form\Kuis Panda\Kuis Panda\Kuis Panda\bin\Debug\Kuis Panda.pdb
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Windows Form\Kuis Panda\Kuis Panda\Kuis Panda\obj\Debug\Kuis Panda.csprojAssemblyReference.cache
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Windows Form\Kuis Panda\Kuis Panda\Kuis Panda\obj\Debug\Kuis_Panda.Properties.Resources.resources
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Windows Form\Kuis Panda\Kuis Panda\Kuis Panda\obj\Debug\Kuis Panda.csproj.GenerateResource.cache
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Windows Form\Kuis Panda\Kuis Panda\Kuis Panda\obj\Debug\Kuis Panda.csproj.CoreCompileInputs.cache
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Windows Form\Kuis Panda\Kuis Panda\Kuis Panda\obj\Debug\Kuis Panda.exe
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Windows Form\Kuis Panda\Kuis Panda\Kuis Panda\obj\Debug\Kuis Panda.pdb
+D:\Dokumen Kuliah\Semester 1\Visual (AP)\Windows Form\Kuis Panda\Kuis Panda\Kuis Panda\obj\Debug\Kuis_Panda.FormQuizPanda.resources
